@@ -1,3 +1,4 @@
+opencv-python-headless
 streamlit
 ultralytics
 pillow
@@ -12,4 +13,3 @@ pypdf
 tiktoken
 torch
 torchvision
-opencv-python-headless
